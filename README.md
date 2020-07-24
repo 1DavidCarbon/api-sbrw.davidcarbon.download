@@ -1,2 +1,1 @@
-# api-sbrw.davidcarbon.download
-https://api-sbrw.davidcarbon.download/
+This site is a backup api for a Community Project: [Soapbox Race World](https://github.com/SoapboxRaceWorld)
